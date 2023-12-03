@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TesteProva2Bimestre/static/css/main.25fc958f.css",
+    "main.js": "/TesteProva2Bimestre/static/js/main.9a9a79b9.js",
+    "index.html": "/TesteProva2Bimestre/index.html",
+    "main.25fc958f.css.map": "/TesteProva2Bimestre/static/css/main.25fc958f.css.map",
+    "main.9a9a79b9.js.map": "/TesteProva2Bimestre/static/js/main.9a9a79b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25fc958f.css",
+    "static/js/main.9a9a79b9.js"
+  ]
+}
